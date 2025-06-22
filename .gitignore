@@ -1,0 +1,7 @@
+.idea
+*.jsonl
+*.gz
+*.pdf
+*.safetensors
+*.npy
+*.csv
